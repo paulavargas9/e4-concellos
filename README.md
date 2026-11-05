@@ -1,2 +1,9 @@
-# e4-concellos
-extracción, limpieza y análisis de datos de población de los municipios de A Coruña mediante web scraping.
+# E4 - Concellos da provincia da Coruña
+
+## Objetivo
+
+Extraer los datos de población de los 93 municipios de la
+provincia de A Coruña desde Wikipedia mediante web scraping.
+
+Después limpiaremos y validaremos los datos para poder
+analizarlos y responder las preguntas del ejercicio.
